@@ -4,7 +4,7 @@
 #
 Name     : mvn-velocity-tools
 Version  : 2.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/velocity-tools/archive/2.0.tar.gz
 Source0  : https://github.com/apache/velocity-tools/archive/2.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar
